@@ -1,0 +1,2 @@
+# QR Code Generator
+ The QR Code Generator is a versatile tool designed to simplify the process of sharing information digitally. QR (Quick Response) codes are square-shaped symbols that contain encoded data, such as website URLs, contact information, or text messages. With this generator, users can quickly create custom QR codes for various purposes, ranging from business promotions to personal communication.
